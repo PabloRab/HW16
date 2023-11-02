@@ -1,0 +1,13 @@
+.bg-box{
+    width: 800px;
+    height: 600px;
+    background-color: green;
+    background-image: url(./img/cd64584d-67e6-402d-9f6e-241da5d7fdb6.jpg),
+    url(./img/b23d664c-7a84-4980-ba72-8e9ac0ae16a8.jpg),
+    url(./img/6fa198d9-32ef-422a-8853-591438db1293.jpg),
+    url(./img/msg-1001930835534-527.jpg),
+    url(./img/d413a00c-f372-4c07-a7d4-359cf6ee8a6b.jpg);
+    background-size: 400px, 150px, 30px, 50px, 50px;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-position: center, bottom, top, top right, top left;
+}
